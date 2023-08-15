@@ -1,2 +1,2 @@
 # YouTube-playlist-downloader
-YouTube-Playlist-Downloader
+Very good and Efficient YouTube-Playlist-Downloader chrome extension
