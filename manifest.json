@@ -6,7 +6,9 @@
     "permissions": [
         "background",
         "storage",
-        "tabs"
+        "tabs",
+        "downloads",
+        "https://www.youtube.com/*"
     ],
     "background": {
         "scripts": ["background.js"]
@@ -18,7 +20,7 @@
     }
   ],
     "options_page": "app/settings.html",
-    "page_action": {
+    "browser_action": {
         "default_popup": "app/popup.html",
         "default_icon": {
             "16": "img/icon16.png",
